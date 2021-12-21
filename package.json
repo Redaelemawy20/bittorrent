@@ -1,0 +1,14 @@
+{
+  "name": "bittorrent",
+  "version": "1.0.0",
+  "description": "bittorent client ",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bapp\u001b[C\u001b[6~\u001b",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reda elemawy",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
